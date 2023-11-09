@@ -1,4 +1,4 @@
-# Serveur-Java-multi-client
+# Serveur Java multi client
 
 
 Nous allons tenter de comprendre les mécanismes de base de la communication par sockets via la construction d'un serveur Java multi client.
